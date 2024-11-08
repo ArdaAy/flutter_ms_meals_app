@@ -1,2 +1,3 @@
-# flutter_ms_meals_app
-2nd app of Maximilian Schwarzmüller - Flutter &amp; Dart - The Complete Guide [2024 Edition] Udemy Course
+# Meals App 
+
+5th application of [Maximilian Schwarzmüller - Flutter & Dart - The Complete Guide [2024 Edition]](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/) Udemy Course
